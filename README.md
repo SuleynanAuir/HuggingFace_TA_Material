@@ -153,7 +153,3 @@ This project helps you understand the **end-to-end process** of:
 ### 📮 License
 
 MIT License — free to use, modify, and share.
-
----
-
-如你还需要中文版说明、添加可视化图片、Gradio App 设计或模型预测脚本等，也可以告诉我，我可以继续帮你丰富 `README.md`。是否需要我顺带帮你生成一个 `app.py`（部署界面）？
