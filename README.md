@@ -1,7 +1,3 @@
-当然可以！下面是根据你提供的内容整理的一份结构清晰、适合初学者的 `README.md` 文档，用于介绍整个基于 Hugging Face 的 BERT 微调、训练和部署的教程项目。
-
----
-
 ## 📘 Emotion Classification with BERT — Beginner Cloud Pipeline Tutorial
 
 This tutorial demonstrates how to build a **cloud-based emotional text classification system** using [Hugging Face Transformers](https://huggingface.co/), modular pipelines, and deploy it with Hugging Face **Spaces** for real-time web-based prediction.
